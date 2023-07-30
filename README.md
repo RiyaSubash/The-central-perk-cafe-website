@@ -35,19 +35,3 @@ As this is a static web application, there is no specific installation process r
 5. **Contact**: Users can get in touch with the restaurant by filling out the contact form.
 
 6. **Blogs**: The blogs section features various articles about the restaurant's dishes and experiences.
-
-## Authorship and Licensing
-
-The Central Park web application is designed and created by an unknown author. As no licensing information is provided within the project, it is essential to contact the original author for permissions and licensing details before using any part of the project for commercial purposes.
-
-## Support and Contributions
-
-As the project is presented without a specific GitHub repository or any other means of contributions, any enhancements or modifications to the application must be done directly by the original author. If you encounter issues or have suggestions, please contact the original author directly.
-
-## Disclaimer
-
-Central Park is a fictional web application created for educational purposes. The project does not represent an actual restaurant, and any resemblance to real-world entities is purely coincidental.
-
----
-
-Please note that this readme file assumes that the project is a static web application and doesn't involve any server-side or back-end code. If the project contains server-side elements or requires additional setup, the readme file should include the appropriate instructions for those aspects as well.
